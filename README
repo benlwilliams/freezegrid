@@ -1,4 +1,4 @@
 FreezeGrid is a jQuery plugin that will take a table and give it the ability to have frozen columns/and or rows.  (Or at least that's my goal.)  This is accomplished by duplicating the single table into four distict tables that "slide" behind one antoher to create the illusion of frozen columns and rows.
 
-I have successfully created a non-plugin version of this code on a live, but private application and thought I'd try to reproduce here on github.  My JavaScript expertese is intermediate and so I expect people to find lots of problems and areas to improve on my code.  If you're so inclined, contact me at benleewilliams@gmail.com.
+I have successfully created a non-plugin version of this code on a live, but private application and thought I'd try to reproduce here on github.  My JavaScript expertese is intermediate and so I expect people to find many areas to improve on my code.
 
